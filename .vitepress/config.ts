@@ -25,6 +25,8 @@ export default defineConfig({
                 text: "Laudiolin",
                 items: [
                     { text: "Frequently Asked Questions", link: "/laudiolin/faq" },
+                    { text: "Terms of Service", link: "/laudiolin/terms-of-service" },
+                    { text: "Privacy Policy", link: "/laudiolin/privacy-policy" },
                 ]
             }
         ],
