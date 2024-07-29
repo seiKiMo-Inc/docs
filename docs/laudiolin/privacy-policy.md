@@ -6,7 +6,7 @@ outline: deep
 
 **Last updated and effective: April 7, 2024**
 
-This privacy policy applies to the app <strong>Laudiolin</strong> developed by seiKiMo-Inc who we may
+This privacy policy applies to the app **Laudiolin** developed by seiKiMo-Inc who we may
 refer to as "we".
 
 Your privacy is important to us. Our policy is to respect your privacy regarding any information we
