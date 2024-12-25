@@ -12,6 +12,10 @@
 
 ## My Well Has Run Dry
 
+### Restie's Blossom Sapling
+
+![Restie's Blossom Sapling](images/recipe_blossom.png)
+
 ### Advanced Beacon
 
 ![Advanced Beacon](images/recipe_advanced_beacon.png)
