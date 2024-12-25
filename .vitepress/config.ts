@@ -28,6 +28,14 @@ export default defineConfig({
                     { text: "Terms of Service", link: "/laudiolin/terms-of-service" },
                     { text: "Privacy Policy", link: "/laudiolin/privacy-policy" },
                 ]
+            },
+            {
+                text: "My Well Has Run Dry",
+                items: [
+                    { text: "Information", link: "/mwhrd/info" },
+                    { text: "Recipes", link: "/mwhrd/recipes" },
+                    { text: "Features", link: "/mwhrd/features" }
+                ]
             }
         ],
 
