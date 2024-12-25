@@ -33,6 +33,7 @@ export default defineConfig({
                 text: "My Well Has Run Dry",
                 items: [
                     { text: "Information", link: "/mwhrd/info" },
+                    { text: "Changelog", link: "/mwhrd/changelog" },
                     { text: "Recipes", link: "/mwhrd/recipes" },
                     { text: "Features", link: "/mwhrd/features" }
                 ]
