@@ -4,7 +4,7 @@
 
 ### Enchanted Golden Apple
 
-![Totem of Undying](images/recipe_enchanted_apple.png)
+![Enchanted Golden Apple](images/recipe_enchanted_apple.png)
 
 ### Totem of Undying
 
@@ -21,6 +21,7 @@
 ![Advanced Beacon](images/recipe_advanced_beacon.png)
 
 > The **Beacon** at the bottom is a normal beacon, while the result is an **Advanced Beacon**.
+
 > The **Monster Spawner** can be obtained from opening **Ominous Vaults**.
 
 ### Enlightened Diamond Armor
@@ -42,16 +43,23 @@
 
 > The **Light Gray Dye** is actually a **Soul of Light** dropped from defeating the boss at the top of the **Realm of Light**.
 
-### Enlightened Diamond Sword
+### Enlightened Diamond Tools
 
 ![Enlightened Diamond Sword](images/recipe_enlightened_sword.png)
+![Enlightened Diamond Pickaxe](images/recipe_enlightened_pickaxe.png)
+![Enlightened Diamond Axe](images/recipe_enlightened_axe.png)
+![Enlightened Diamond Shovel](images/recipe_enlightened_shovel.png)
+![Enlightened Diamond Hoe](images/recipe_enlightened_hoe.png)
 
 #### Upgrades
 
 ![Enlightened Diamond Sword Upgrade](images/upgrade_enlightened_sword.png)
 
-> The resulting item is actually an Iron Sword that can be upgraded.
+> This upgrade applies to all **Enlightened Diamond Tools**.
 
 ---
+
+> The resulting item is actually an Iron Tool that can be upgraded.
+
 
 > The **Light Gray Dye** is actually a **Soul of Light** dropped from defeating the boss at the top of the **Realm of Light**.
