@@ -1,5 +1,18 @@
 # Changelog
 
+## Version 2.2
+
+This is a patch update for MWHRD.\
+This update has no codename.
+
+It included:
+
+- A nerf to future upgrades of the **Enlightened Diamond Hoe**
+- Changes to the Realm of Light
+  - The Guardian of Light cannot fall more than 10 blocks from its spawning platform
+  - Moss Carpet and Iron Bars cannot be placed above Y=100
+- WorldEdit operations have been reverted back to 5,000 blocks/second
+
 ## Version 2.1
 
 This is the first minor content update/patch for MWHRD.\
@@ -7,8 +20,6 @@ This update has no codename.
 
 It included:
 
-- Full fuctionality of The Atlas
-  - Right-click to open a GUI, allowing you to locate any structure in the world
 - The rest of the **Enlightened Diamond** set of tools
 - Wiki updates
   - Added recipes for **Enlightened Diamond [Axe/Shovel/Pickaxe/Hoe]**
