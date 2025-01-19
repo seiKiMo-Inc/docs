@@ -23,6 +23,7 @@ It included:
 - Various bug fixes
   - Prevents players from warping in/out of the *Realm of Light*
   - The *WorldEdit Wand* now has a localized name
+  - Removing an upgrade from a beacon now gives the item back
 
 ## Version 2.2
 
