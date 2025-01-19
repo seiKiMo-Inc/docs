@@ -9,7 +9,7 @@ Available for **1.21.4** at:
 ## Features
 
 A list of all the features can be found in the [Features](features) page,
-but a quick overview can be found below:
+but a quick overview (as of 2.0) can be found below:
 
 - [Trial Chambers have been significantly overhauled](features#trial-chambers)
 - [Shift-click to open Ender Chests and Shulker Boxes](features#quick-open)
@@ -21,3 +21,5 @@ but a quick overview can be found below:
 - [Beacons have an optional upgrade](features#beacons)
 - [New structures have been added](features#new-structures)
 - [New dimensions have been added](features#new-dimensions)
+
+For all features, I suggest looking at the [Changelog](changelog) for more brief information!
